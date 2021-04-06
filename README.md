@@ -23,7 +23,7 @@ I’m looking to join a team of developers that strive to continue learning and 
 
 🔭  Currently working on a website for charity <br>
   
-📚  Currently reading [Refactoring UI](https://www.goodreads.com/book/show/43190966-refactoring-ui?ac=1&from_search=true&qid=XvZf2cmTit&rank=1) <br>
+📚  Currently reading [Design Systems](https://www.goodreads.com/book/show/35857970-design-systems) <br>
 
 👯  I’d love to collaborate more on open source projects
 
