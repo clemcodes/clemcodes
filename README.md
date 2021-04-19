@@ -4,7 +4,7 @@ My name is Clementine Liu and I am a frontend developer based in Manchester, UK.
 
 I was previously an operation manager at [LAIX](https://www.liulishuo.com/en/dongni.html). After taking a career break in Tokyo, I found my passion in coding and design 🦄.
 
-Apart from learning to code, I also teach web development to girls from universities in the UK [@Code First Girls](https://codefirstgirls.org.uk/) and translate coding tutorials for kids [@RaspberryPi](https://projects.raspberrypi.org/en).
+Apart from learning to code, I also teach web development to young women in the UK [@Code First Girls](https://codefirstgirls.org.uk/) and translate coding tutorials for kids [@RaspberryPi](https://projects.raspberrypi.org/en).
 
 I’m looking to join a team of developers that strive to continue learning and working on cool projects.
 
@@ -18,7 +18,7 @@ I’m looking to join a team of developers that strive to continue learning and 
 
 
 🌱 Currently learning:
-  - <img alt="Node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
+  - <img alt="Node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img alt="Node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
 
 
 🔭  Currently working on a website for charity <br>
