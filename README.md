@@ -6,7 +6,7 @@ I was previously an operation manager at [LAIX](https://www.liulishuo.com/en/don
 
 Apart from learning to code, I also teach web development to young women in the UK [@Code First Girls](https://codefirstgirls.org.uk/) and translate coding tutorials for kids [@RaspberryPi](https://projects.raspberrypi.org/en).
 
-I’m looking to join a team of developers that strive to continue learning and working on cool projects.
+I’m looking to join a team of developers that strive to continuous learning and working on high-quality projects.
 
  ⚒️ I currently have built projects using:
 
